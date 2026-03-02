@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 4f123b49-afd0-4483-bae1-b69214c309e4
+  type: book 
+
+book:
+  chapters:
+    - index.md
+    - Persamaan_linier.ipynb
+    - Resume_Materi_Sistem_Persamaan_Linier.ipynb
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
