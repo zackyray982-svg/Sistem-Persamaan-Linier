@@ -6,10 +6,10 @@ project:
 
 book:
   chapters:
-    - index.md
-    - Persamaan_linier
-    - Resume_Materi_Sistem_Persamaan_Linier
-    - TugasGauss
+    - file: index
+    - file: Persamaan_linier
+    - file: Resume_Materi_Sistem_Persamaan_Linier
+    - file: TugasGauss
   # title:
   # description:
   # keywords: []
